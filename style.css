@@ -285,5 +285,6 @@ nav a{
     font-weight: inherit;    /* same boldness as h3 */
 }
 .h3-link:hover {
+    cursor:pointer;
     color:  #a0a0b1;             /* small hover effect (optional) */
 }
